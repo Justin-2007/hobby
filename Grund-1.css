@@ -2,9 +2,9 @@ body {
     background-color: blue;
 }
 h1 {
-    font-size: 50px;
-    margin-top: 150px;
-    margin-left: 150px;
+    font-size: 280%;
+    margin-top: 20%;
+    margin-left: 20%;
     color: aqua;
     text-shadow: 2px  2px 2px #667ffce2,
                  2px -2px 2px #667ffce2,
@@ -12,12 +12,12 @@ h1 {
                 -2px -2px 2px #667ffce2;
 }
 ul {
-    font-size: 30px;
-    margin-left: 250px;
+    font-size: 180%;
+    margin-left: 30%;
     color: #FFFFFF;
 }
 h3 {
-    font-size: 35px;
+    font-size: 210%;
     color: beige
 }
 .Clip {
@@ -29,9 +29,10 @@ h3 {
     border-color: rgb(145, 55, 255);
 }
 .Zurück {
-    margin-top: 50px;
+    margin-top: 5%;
     background-color: aquamarine;
-    font-size: 20px;
+    font-size: 1.2em;
     color: darkgoldenrod;
     border-radius: 10px
+}
 }
