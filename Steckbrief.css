@@ -1,5 +1,5 @@
 body {
-    background-image: url("gradient-colors-blur-background-1542457654NlA.jpg");
+    background: linear-gradient(to bottom right, #0d1b2a, #add8e6);
 }
 h1 {
     color: white;
@@ -24,28 +24,29 @@ h1 {
 }
 .box {
     float: left;
-    width: 45%;
+    width: 40%;
     margin-right: 2%;
-    padding: 5%;
+    padding: 6%;
     box-sizing: border-box;
 }
 .box:last-child{
     margin-right: 0;
 }
 .Bild {
-    width: 50%;
+    width: 35%;
     height: 10%;
-    margin-top: 0px;
+    margin-top: 0%;
 }
 .Bild-2 {
-    width: 60%;
+    width: 30%;
     height: 20%;
-    margin-top: 20px;
+    margin-top: 0%;
 }
 .Bild-3 {
-    width: 130px;
-    height: 160px;
-    margin-top: 0px;
+    width: 40%;
+    height: 30%;
+    margin-top: 0%;
+    margin-bottom: 0%;
 }
 .King{
     margin-left: 2%;
@@ -63,6 +64,10 @@ mark {
     background-color: aquamarine;
     font-size: 1em;
     color: darkgoldenrod;
+    border-radius: 10px;
+    margin-left: 2%;
+}
+
     border-radius: 10px;
     margin-left: 2%;
 }
