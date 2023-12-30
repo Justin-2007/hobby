@@ -1,0 +1,37 @@
+body {
+    background-color: blue;
+}
+h1 {
+    font-size: 50px;
+    margin-top: 150px;
+    margin-left: 150px;
+    color: aqua;
+    text-shadow: 2px  2px 2px #667ffce2,
+                 2px -2px 2px #667ffce2,
+                -2px  2px 2px #667ffce2,
+                -2px -2px 2px #667ffce2;
+}
+ul {
+    font-size: 30px;
+    margin-left: 250px;
+    color: #FFFFFF;
+}
+h3 {
+    font-size: 35px;
+    color: beige
+}
+.Clip {
+    background-color: rgba(84, 8, 156, 0.694);
+    color: rgb(137, 0, 0);
+    font-size: x-large;
+    font-family: cursive;
+    border-radius: 10px;
+    border-color: rgb(145, 55, 255);
+}
+.Zurück {
+    margin-top: 50px;
+    background-color: aquamarine;
+    font-size: 20px;
+    color: darkgoldenrod;
+    border-radius: 10px
+}

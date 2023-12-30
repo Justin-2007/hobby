@@ -1,0 +1,85 @@
+body {
+     
+    background-image: url('course-716201_1280.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 900px;
+}
+.text {
+    margin-left: 100px ;
+    font-size: 20px;
+    font-family: cursive;
+}
+h1 {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: rgb(187, 123, 247);
+}
+.Erster {
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 100px;
+    background-color: dodgerblue;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+    border-width: 2px;
+    border-radius: 10px;
+}
+.Erster:hover {
+    font-size: 35px;
+    color: cornflowerblue;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.Zweiter {
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 100px;
+    background-color: dodgerblue;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+    border-width: 2px;
+    border-radius: 10px;
+}
+.Zweiter:hover {
+    font-size: 35px;
+    color: cornflowerblue;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.Vorstellung {
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 100px;
+    background-color: dodgerblue;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+    border-width: 2px;
+    border-radius: 10px;
+}
+.Vorstellung:hover {
+    font-size: 35px;
+    color: cornflowerblue;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.Steckbrief {
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 100px;
+    background-color: dodgerblue;
+    border-color: #FFFFFF;
+    color: #FFFFFF;
+    border-width: 2px;
+    border-radius: 10px;
+}
+.Steckbrief:hover {
+    font-size: 35px;
+    color: cornflowerblue;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}

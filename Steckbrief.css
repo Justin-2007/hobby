@@ -1,0 +1,68 @@
+body {
+    background-image: url("gradient-colors-blur-background-1542457654NlA.jpg");
+}
+h1 {
+    color: white;
+    margin-left: 400px;
+}
+.Duncan {
+    font-size: 20px;
+    font-family: cursive;
+    color: white;
+    margin-left: 20px;
+}
+.Luca {
+    font-size: 20px;
+    color: white;
+    font-family: cursive;
+
+}
+.Ben {
+    font-size: 20px;
+    color: white;
+    font-family: cursive;
+}
+.box {
+    float: left;
+    width: 45%;
+    margin-right: 2%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.box:last-child{
+    margin-right: 0;
+}
+.Bild {
+    width: 130px;
+    height: 140px;
+    margin-top: 30pxpx;
+}
+.Bild-2 {
+    width: 130px;
+    height: 140px;
+    margin-top: 90px;
+}
+.Bild-3 {
+    width: 130px;
+    height: 160px;
+    margin-top: 0px;
+}
+.King{
+    margin-left: 7px;
+}
+.Strich {
+    width: 94%;
+    margin-left: 25px;
+}
+mark {
+    background-color: lightcoral;
+    color: white;
+}
+.Zurück {
+    margin-top: 50px;
+    background-color: aquamarine;
+    font-size: 20px;
+    color: darkgoldenrod;
+    border-radius: 10px;
+    margin-left: 30px;
+}
