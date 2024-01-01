@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(79, 79, 252);
+    background: linear-gradient(to bottom right, #000000, #ffffff);
+    color: white;
 }
 h4 {
     font-size: 240%;
@@ -8,10 +9,7 @@ h4 {
 }
 p {
     font-size: 130%;
-}
-.Hartrumpf {
-    font-size:160%;
-    color: rgb(255, 83, 83)
+    color: #FFF;
 }
 .Zurück {
     margin-top: 10%;
