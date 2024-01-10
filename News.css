@@ -1,0 +1,21 @@
+body {
+    background-color: slategray
+}
+h1 {
+    color: whitesmoke;
+    margin-left: 40%;
+    font-size: 300%;
+}
+h4 {
+    color: whitesmoke;
+    font-family: goudy old style;
+    font-size: 150%;
+}
+.Zurück {
+    margin-top: 50px;
+    background-color: aquamarine;
+    font-size: 1.6em;
+    color: darkgoldenrod;
+    border-radius: 10px;
+    margin-left: 2%;
+}
