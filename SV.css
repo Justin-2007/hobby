@@ -81,3 +81,14 @@ h1 {
     background-color: #FFFFFF;
     border-radius: 10px;
 }
+.neben {
+    display: flex;
+}
+.News {
+    font-size: 40px;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.Link {
+    color: #FFFFFF;
+}
