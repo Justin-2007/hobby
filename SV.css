@@ -1,14 +1,4 @@
-body {
-    background: linear-gradient(to bottom right, #57fff9, #8d00d3);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-.text {
-    margin-left: 10% ;
-    font-size: 1.2em;
-    font-family: cursive;
-}
+
 h1 {
     padding-left: 15%;
     padding-right: 100px;
@@ -16,76 +6,4 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 3.4em;
     color: rgb(187, 123, 247);
-}
-.Erster {
-    font-size: 1.4em;
-    margin-top: 6%;
-    margin-left: 12%;
-    background-color: dodgerblue;
-    border-color: #FFFFFF;
-    color: #FFFFFF;
-    border-width: 2%;
-    border-radius: 10px;
-}
-.Erster:hover {
-    font-size: 2em;
-    color: cornflowerblue;
-    background-color: #FFFFFF;
-    border-radius: 10px;
-}
-.Zweiter {
-    font-size: 1.4em;
-    margin-top: 6%;
-    margin-left: 12%;
-    background-color: dodgerblue;
-    border-color: #FFFFFF;
-    color: #FFFFFF;
-    border-width: 2%;
-    border-radius: 10px;
-}
-.Zweiter:hover {
-    font-size: 2em;
-    color: cornflowerblue;
-    background-color: #FFFFFF;
-    border-radius: 10px;
-}
-.Vorstellung {
-    font-size: 1.4em;
-    margin-top: 6%;
-    margin-left: 12%;
-    background-color: dodgerblue;
-    border-color: #FFFFFF;
-    color: #FFFFFF;
-    border-width: 2%;
-    border-radius: 10px;
-}
-.Vorstellung:hover {
-    font-size: 2em;
-    color: cornflowerblue;
-    background-color: #FFFFFF;
-    border-radius: 10px;
-}
-.Steckbrief {
-    font-size: 1.4em;
-    margin-top: 6%;
-    margin-left: 12%;
-    background-color: dodgerblue;
-    border-color: #FFFFFF;
-    color: #FFFFFF;
-    border-width: 2%;
-    border-radius: 10px;
-}
-.Steckbrief:hover {
-    font-size: 2em;
-    color: cornflowerblue;
-    background-color: #FFFFFF;
-    border-radius: 10px;
-}
-.News {
-    font-size: 40px;
-    margin-left: 400px;
-    margin-top: 30px;
-}
-.Link {
-    color: #FFFFFF;
 }
